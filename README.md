@@ -553,3 +553,8 @@ Analysis → Insight → Executive Decision**
 
 The emphasis is on **traceability, analytical rigor, reproducibility,
 and decision usefulness**.
+
+## Author
+
+**Akshat Vidyarthi** 
+SQL • Python • Tableau
