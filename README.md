@@ -122,7 +122,7 @@ finale_project/
 │   └── executive_dashboard.png
 │
 ├── 06_executive_memo/
-│   └── executive_memo.docx
+│   └── executive_memo_collections_recovery.docx
 │
 ├── 07_architecture/
 │   ├── production_design.*
